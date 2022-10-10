@@ -19,8 +19,9 @@ namespace aspnetcore.Migrations
 
             modelBuilder.Entity("AspNetCore.FoodRecord", b =>
                 {
-                    b.Property<string>("Id")
-                        .HasColumnType("TEXT");
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
 
                     b.Property<DateTime>("DateTime")
                         .HasColumnType("TEXT");

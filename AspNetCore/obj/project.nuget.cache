@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yzt8CJL6nAjIg42VR0e0lVfoFOIMYDJOoTGEpjT+2kd5m2LFXcZscQFLCMe//PHQsytlcJ5XMJ5WsC7WmZjUiA==",
+  "dgSpecHash": "f+lKkpyMMbhhkC+WF2QmBVALxd3Bzh89259JvaS4qfYspD8UYdOSZ/5tQ5uo1H6c9rkbw7qGcGs7nCWi5u28Hg==",
   "success": true,
-  "projectFilePath": "C:\\STAR\\AspNetCore\\aspnetcore.csproj",
+  "projectFilePath": "C:\\FoodTracker.git\\AspNetCore\\aspnetcore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ian Chawezi Tchongwe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ian Chawezi Tchongwe\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",

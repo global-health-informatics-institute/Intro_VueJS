@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@okta/okta-vue": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/okta__okta-vue": "^3.1.0"
+  }
+}

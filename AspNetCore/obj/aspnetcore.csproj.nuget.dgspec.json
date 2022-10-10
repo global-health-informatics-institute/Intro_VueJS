@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\STAR\\AspNetCore\\aspnetcore.csproj": {}
+    "C:\\FoodTracker.git\\AspNetCore\\aspnetcore.csproj": {}
   },
   "projects": {
-    "C:\\STAR\\AspNetCore\\aspnetcore.csproj": {
+    "C:\\FoodTracker.git\\AspNetCore\\aspnetcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\STAR\\AspNetCore\\aspnetcore.csproj",
+        "projectUniqueName": "C:\\FoodTracker.git\\AspNetCore\\aspnetcore.csproj",
         "projectName": "aspnetcore",
-        "projectPath": "C:\\STAR\\AspNetCore\\aspnetcore.csproj",
+        "projectPath": "C:\\FoodTracker.git\\AspNetCore\\aspnetcore.csproj",
         "packagesPath": "C:\\Users\\Ian Chawezi Tchongwe\\.nuget\\packages\\",
-        "outputPath": "C:\\STAR\\AspNetCore\\obj\\",
+        "outputPath": "C:\\FoodTracker.git\\AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ian Chawezi Tchongwe\\AppData\\Roaming\\NuGet\\NuGet.Config",
